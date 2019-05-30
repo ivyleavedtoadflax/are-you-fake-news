@@ -56,7 +56,7 @@ def index():
      })
     """
 
-    app.logerr.info("Plotter service awaiting requests")
+    app.logger.info("Plotter service awaiting requests")
 
     try:
 
